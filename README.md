@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebooks of the paper "Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Datasets"
 
-Table of Contents
+## Table of Contents
 
 Introduction
 
