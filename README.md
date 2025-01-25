@@ -79,10 +79,7 @@ This repository is organized into four main folders reflecting the pipeline of o
 - MICE or relevant library for data imputation (e.g., FancyImpute or a built-in function if available)
   
 You can install the core dependencies via:
-
-"""
-pip install -r requirements.txt
-"""
+`pip install -r requirements.txt`
 
 ## 4. Data Availability and Access
 We use three publicly available intensive care unit (ICU) databases hosted on PhysioNet:
