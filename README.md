@@ -222,7 +222,7 @@ cd NonIID_Fedrated_Learning
 If you find our work or code helpful for your research, please cite:
 
 ```
-@article{chen2023nonIID,
+@article{
   title={Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Datasets},
   author={Chen, Kun-Yi and Shyu, Chi-Ren and Tsai, Yuan-Yu and Baskett, William I. and Chang, Chi-Yu and Chou, Che-Yi and Tsai, Jeffrey J. P. and Shae, Zon-Yin},
   journal={(Journal of Healthcare Informatics Research)},
@@ -233,4 +233,5 @@ If you find our work or code helpful for your research, please cite:
 
 - This repository is provided for academic and research purposes.
 - Access to MIMIC-III, MIMIC-IV, and eICU-CRD databases requires approval from PhysioNet and completion of CITI training.
-- For any questions or suggestions, please feel free to open an issue or contact the authors.
+  
+For any questions or suggestions, please feel free to open an issue or contact the authors.
