@@ -225,9 +225,8 @@ If you find our work or code helpful for your research, please cite:
 @article{chen2023nonIID,
   title={Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Datasets},
   author={Chen, Kun-Yi and Shyu, Chi-Ren and Tsai, Yuan-Yu and Baskett, William I. and Chang, Chi-Yu and Chou, Che-Yi and Tsai, Jeffrey J. P. and Shae, Zon-Yin},
-  journal={(Please update with final journal info when available)},
-  year={2023},
-  note={arXiv / preprint / etc. if applicable}
+  journal={(Journal of Healthcare Informatics Research)},
+  year={2025}
 }
 """
 
