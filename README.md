@@ -34,7 +34,7 @@ In federated learning (FL) settings, data resides in multiple healthcare sites (
 - A statistical method using hypothesis testing and effect size to quantify distribution shifts among local datasets.
 - Interpretable, model-agnostic approach for mixed data types.
 - Provides stable, normalized estimates of data heterogeneity.
-- 
+  
 ### 2. Evaluation Metrics for Non-IID Estimation
 
 - Variability: Measures consistency of non-IID degree estimates under different sample sizes.
