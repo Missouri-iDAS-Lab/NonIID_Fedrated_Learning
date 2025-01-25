@@ -4,23 +4,23 @@ This repository contains the Jupyter Notebooks of the paper "Effective Non-IID D
 
 ## Table of Contents
 
-Introduction
+[Introduction](#1-introduction)
 
-Repository Overview
+[Repository Overview](#2-repository-overview)
 
-Installation and Requirements
+[Installation and Requirements](#3-installation-and-requirements)
 
-Data Availability and Access
+[Data Availability and Access](#4-data-availability-and-access)
 
-Key Methods and Algorithms
+[Key Methods and Algorithms](#5-key-methods-and-algorithms)
 
-Experimental Design
+[Experimental Design](#6-experimental-design)
 
-Results and Evaluation
+[Results and Evaluation](#7-results-and-evaluation)
 
-Usage Guide
+[Usage Guide](#8-usage-guide)
 
-Citation
+[Citation](#9-citation)
 
 ## 1. Introduction
 
