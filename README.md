@@ -28,20 +28,20 @@ Non-independent and non-identically distributed (non-IID) data often arises in h
 
 In federated learning (FL) settings, data resides in multiple healthcare sites (or nodes), each with potentially unique, heterogeneous distributions. While FL allows collaborative model training without directly sharing sensitive data, it does not inherently quantify or mitigate the degree of distribution shift among sites.
 
-## What We Propose
-### 1. Non-IID Degree Estimation
+### What We Propose
+#### 1. Non-IID Degree Estimation
 
 - A statistical method using hypothesis testing and effect size to quantify distribution shifts among local datasets.
 - Interpretable, model-agnostic approach for mixed data types.
 - Provides stable, normalized estimates of data heterogeneity.
   
-### 2. Evaluation Metrics for Non-IID Estimation
+#### 2. Evaluation Metrics for Non-IID Estimation
 
 - Variability: Measures consistency of non-IID degree estimates under different sample sizes.
 - Separability: Assesses how well a non-IID estimation method distinguishes within-dataset vs. between-dataset differences.
 - Computational Time: Tracks efficiency of computing the non-IID degree.
 
-### 3. Non-IID Federated Learning (Non-IID FL)
+#### 3. Non-IID Federated Learning (Non-IID FL)
 
 - Incorporates the non-IID degree as a regularization term to weigh local updates.
 - Limits impact from nodes with large distribution differences, improving robustness and fairness.
