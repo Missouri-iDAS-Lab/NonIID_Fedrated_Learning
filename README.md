@@ -183,9 +183,11 @@ Experiments are designed to assess both non-IID degree estimation and federated 
 ## 8. Usage Guide
 ### 8.1. Cloning the Repository
 
-`git clone https://github.com/Missouri-iDAS-Lab/NonIID_Fedrated_Learning.git
+```
+git clone https://github.com/Missouri-iDAS-Lab/NonIID_Fedrated_Learning.git
+cd NonIID_Fedrated_Learning
+```
 
-cd NonIID_Fedrated_Learning`
 
 ### 8.2. Running the Experiments
 #### 8.2.1. Data Preprocessing
