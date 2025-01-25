@@ -221,14 +221,12 @@ cd NonIID_Fedrated_Learning
 ## 9. Citation
 If you find our work or code helpful for your research, please cite:
 
-"""
-@article{chen2023nonIID,
+```@article{chen2023nonIID,
   title={Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Datasets},
   author={Chen, Kun-Yi and Shyu, Chi-Ren and Tsai, Yuan-Yu and Baskett, William I. and Chang, Chi-Yu and Chou, Che-Yi and Tsai, Jeffrey J. P. and Shae, Zon-Yin},
   journal={(Journal of Healthcare Informatics Research)},
   year={2025}
-}
-"""
+}```
 
 ### Disclaimer:
 
