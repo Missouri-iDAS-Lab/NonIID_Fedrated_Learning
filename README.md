@@ -49,23 +49,23 @@ In federated learning (FL) settings, data resides in multiple healthcare sites (
 ## 2. Repository Overview
 This repository is organized into four main folders reflecting the pipeline of our experiments:
 
-### 2.1. '1_Data_preprocessing_with_Time_sequence_processing_and_Imputation'
+### 2.1. 1_Data_preprocessing_with_Time_sequence_processing_and_Imputation
 
 - Jupyter Notebooks and Python scripts for data cleaning and feature preprocessing.
 - Includes time-sequence processing, missing data imputation (e.g., MICE), and outlier removal.
 - Final outputs are normalized EHR features for AKI risk prediction.
   
-### 2.2. '2_Comparison_of_different_nonIID_estimation_methods'
+### 2.2. 2_Comparison_of_different_nonIID_estimation_methods
 
 - Implements the proposed statistical-based non-IID estimation method, as well as previous non-IID measurement approaches.
 - Contains scripts to generate numerical comparisons of variability, separability, and computational costs.
   
-### 2.3. '3_Relationship_between_testing_error_and_nonIID'
+### 2.3. 3_Relationship_between_testing_error_and_nonIID
 
 - Demonstrates the positive correlation between non-IID degree and model testing error.
 - Includes evaluations using different ML models (e.g., neural networks, SVM, random forests, XGBoost) to observe performance under distribution shifts.
   
-### 2.4. '4_NonIID_Federated_learning_and_Other_federated_learning_methods'
+### 2.4. 4_NonIID_Federated_learning_and_Other_federated_learning_methods
 
 - Code for federated learning experiments, including FedAvg, FedProx, Mime Lite, and our proposed Non-IID FL.
 - Scripts to compare local, centralized, and federated models on MIMIC-III, MIMIC-IV, and eICU-CRD datasets.
