@@ -167,7 +167,7 @@ Experiments are designed to assess both non-IID degree estimation and federated 
 
 ### 7.1. Non-IID Degree Estimation
 
-- Our method outperforms previous approaches (He et al., Li et al., Zhao et al.) on variability, separability, and computation time.
+- Our method outperforms previous approaches on variability, separability, and computation time.
 - Produces stable, normalized non-IID estimates across different data sampling percentages.
   
 ### 7.2. Correlation with Testing Error
